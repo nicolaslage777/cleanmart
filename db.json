@@ -1,0 +1,23 @@
+{
+    "products":[
+        {
+            "id":1,
+            "img":"https://images.tcdn.com.br/img/img_prod/847608/detergente_liquido_clear_ype_500ml_4773_1_d08d46a82a496cb0053b5c424727c41c.jpg",
+            "nome":"Detergente",
+            "price":"4,00"
+        },
+        {
+            "id":2,
+            "img":"https://carrefourbrfood.vtexassets.com/arquivos/ids/31689068/alvejante-sem-cloro-para-roupas-coloridas-vanish-500ml-1.jpg?v=1771758548",
+            "nome":"alvejante",
+            "price":"16,00"
+        },
+        {
+            "id":3,
+            "img":"https://protelimp.com.br/wp-content/uploads/2018/08/amaciante-2-litros-harmonia-mon-bijou.fw_.png",
+            "nome":"Amaciante",
+            "price":"20,00"
+        }
+        
+    ]
+}
